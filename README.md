@@ -1,6 +1,6 @@
 # digiscan
 
-A new Flutter project.
+Scanner App base code.
 
 ## Getting Started
 
